@@ -1,4 +1,4 @@
-#Hayvanat Bahçesi Yönetim Sistemi
+Hayvanat Bahçesi Yönetim Sistemi
 
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
